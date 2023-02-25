@@ -1,0 +1,38 @@
+﻿  Game.cpp
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(49,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(200,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(440,25): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(522,25): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(615,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(661,25): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(754,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(812,25): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(824,25): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(1032,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(1100,26): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(1111,26): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(1129,25): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(1136,25): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(1390,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(1466,26): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(1478,26): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(1490,26): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(1509,25): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(1516,25): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(1523,25): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(1871,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(1954,26): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(1966,26): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(1978,26): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(1997,25): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(2004,25): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(2011,25): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(2407,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(2488,26): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(2500,26): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(2512,26): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(2531,25): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(2538,25): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(2545,25): warning C4018: “<”: 有符号/无符号不匹配
+E:\Lectures\COMP2113\Project\Game\Game\Game.cpp(2948,23): warning C4018: “<”: 有符号/无符号不匹配
+  Game.vcxproj -> E:\Lectures\COMP2113\Project\Game\Debug\Game.exe
